@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest_vue_cli3"]=self["webpackChunktest_vue_cli3"]||[]).push([[8],{9008:function(t,e,n){n.r(e),n.d(e,{default:function(){return f}});var u=n(3396);const s={class:"about"},c=(0,u._)("h1",null,"This is an product page",-1),r=[c];function a(t,e){return(0,u.wg)(),(0,u.iD)("div",s,r)}var i=n(89);const l={},o=(0,i.Z)(l,[["render",a]]);var f=o}}]);
+//# sourceMappingURL=8.f69131bb.js.map
